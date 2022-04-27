@@ -1,0 +1,11 @@
+{
+    "name": "trinhbao/lab1",
+    "description": "Лаб 1 по ПИУС",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
